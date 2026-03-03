@@ -50,16 +50,6 @@ Each component is designed withconsistent typography, and structured alignment. 
 <img src="Component.png" width="600"/>
 
 
-Mockups
-
-Mockup 1
- <img src="Mockup Dashboard 2.png" width="600"/>
-
-Mockup 2
- <img src="Mockup Dashboard 1.png" width="600"/>
-
-
-
 ## External Links
 
 - 🎨 Behance Project: [your-link](https://www.behance.net/gallery/245082131/Dashboard-ION-Productivity-App)
