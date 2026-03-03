@@ -18,6 +18,11 @@ Features
 This dashboard was designed to solve common problems in task overload.  
 The interface emphasizes clarity, structure, and smart grouping to help users focus on what truly matters.
 
+## Typography
+The dashboard uses **Manrope** as its primary typeface. Manrope was chosen for its modern, minimal, and highly readable character, supporting a clean and structured interface.
+
+<img src="Typhography.png" width="600"/>
+
 
 
 <img src="Mockup Dashboard 2.png" width="600"/>
