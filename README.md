@@ -43,8 +43,17 @@ The dashboard is built using modular and reusable UI components to ensure consis
 
 Each component is designed withconsistent typography, and structured alignment. The layout follows a grid-based system to maintain visual balance and improve readability.
 
-- <img src="Components.png" width="600"/>
+- <img src="Component.png" width="600"/>
+
+Mockups
 
 <img src="Mockup Dashboard 2.png" width="600"/>
 
 <img src="Mockup Dashboard 1.png" width="600"/>
+
+## External Links
+
+- 🎨 Behance Project: [your-link](https://www.behance.net/gallery/245082131/Dashboard-ION-Productivity-App)
+- 📂 Google Drive): [https://drive.google.com/your-link](https://drive.google.com/drive/folders/1ExS7_JAvLfs3MWyy_E8b6r40An3pMV_K?usp=drive_link)
+
+(Figma File is in the Google Drive)
