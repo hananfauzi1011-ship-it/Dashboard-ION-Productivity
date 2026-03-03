@@ -53,6 +53,6 @@ Each component is designed withconsistent typography, and structured alignment. 
 ## External Links
 
 - 🎨 Behance Project: [your-link](https://www.behance.net/gallery/245082131/Dashboard-ION-Productivity-App)
-- 📂 Google Drive): [https://drive.google.com/your-link](https://drive.google.com/drive/folders/1ExS7_JAvLfs3MWyy_E8b6r40An3pMV_K?usp=drive_link)
+- 📂 Google Drive: [https://drive.google.com/your-link](https://drive.google.com/drive/folders/1ExS7_JAvLfs3MWyy_E8b6r40An3pMV_K?usp=drive_link)
 
 (Figma File is in the Google Drive)
