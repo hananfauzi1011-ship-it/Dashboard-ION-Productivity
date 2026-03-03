@@ -47,16 +47,16 @@ The dashboard is built using modular and reusable UI components to ensure consis
 
 Each component is designed withconsistent typography, and structured alignment. The layout follows a grid-based system to maintain visual balance and improve readability.
 
-- <img src="Component.png" width="600"/>
+<img src="Component.png" width="600"/>
 
 
 Mockups
 
 
-<img src="Mockup Dashboard 2.png" width="600"/>
+ <img src="Mockup Dashboard 2.png" width="600"/>
 
 
-<img src="Mockup Dashboard 1.png" width="600"/>
+ <img src="Mockup Dashboard 1.png" width="600"/>
 
 
 
