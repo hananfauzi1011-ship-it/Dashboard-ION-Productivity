@@ -1,6 +1,7 @@
 # Dashboard-ION-Productivity
 
   <img src="Mockup Dashboard 3.png" width="800"/>
+  
 
 ION Dashboard is a task management dashboard designed to help users organize and track their daily tasks efficiently.  It features task statistics, a structured to-do list, progress tracking, timeline overview, and a badge system to encourage consistency. 
 
@@ -23,6 +24,7 @@ The dashboard uses **Manrope** as its primary typeface. Manrope was chosen for i
 
 <img src="Typhography.png" width="600"/>
 
+
 ## 2.Colour Palletes
 The dashboard uses a **Blue and Orange** color palette to create a balance between clarity and energy.
 
@@ -31,12 +33,14 @@ The dashboard uses a **Blue and Orange** color palette to create a balance betwe
 
 - <img src="Colour Palletes.png" width="600"/>
 
+
 ## 3. Icon 
 The dashboard uses thin and minimalist icons to maintain a clean and modern visual language.
 
 This approach prevents visual clutter and keeps the interface lightweight, especially in data-heavy sections. The minimalist style supports clarity and ensures that icons enhance usability without overpowering the content.
 
 - <img src="Icon.png" width="600"/>
+
 
 ## Components
 The dashboard is built using modular and reusable UI components to ensure consistency and scalability.
@@ -45,11 +49,16 @@ Each component is designed withconsistent typography, and structured alignment. 
 
 - <img src="Component.png" width="600"/>
 
+
 Mockups
+
 
 <img src="Mockup Dashboard 2.png" width="600"/>
 
+
 <img src="Mockup Dashboard 1.png" width="600"/>
+
+
 
 ## External Links
 
