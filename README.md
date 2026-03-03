@@ -23,6 +23,9 @@ The dashboard uses **Manrope** as its primary typeface. Manrope was chosen for i
 
 <img src="Typhography.png" width="600"/>
 
+##Colour Palletes
+
+
 
 
 <img src="Mockup Dashboard 2.png" width="600"/>
