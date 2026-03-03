@@ -14,4 +14,6 @@ Features
 - Clean and structured UI layout
 - Capacity-based task organization concept
 
-<img src="Mockup Dashboard 2.png" width="800"/>
+<img src="Mockup Dashboard 2.png" width="600"/>
+
+<img src="Mockup Dashboard 1.png" width="600"/>
