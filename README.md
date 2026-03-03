@@ -14,6 +14,12 @@ Features
 - Clean and structured UI layout
 - Capacity-based task organization concept
 
+## Design System
+This dashboard was designed to solve common problems in task overload.  
+The interface emphasizes clarity, structure, and smart grouping to help users focus on what truly matters.
+
+
+
 <img src="Mockup Dashboard 2.png" width="600"/>
 
 <img src="Mockup Dashboard 1.png" width="600"/>
