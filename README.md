@@ -29,12 +29,21 @@ The dashboard uses a **Blue and Orange** color palette to create a balance betwe
 - **Blue** represents structure, focus, and trust. It dominates the interface background and primary components, creating a calm and professional atmosphere.
 - **Orange** is used as an accent color to highlight important actions, priorities, and interactive elements. It adds contrast and visual energy without overwhelming the layout.
 
+- <img src="Colour Palletes.png" width="600"/>
 
+## 3. Icon 
+The dashboard uses thin and minimalist icons to maintain a clean and modern visual language.
 
-##Colour Palletes
+This approach prevents visual clutter and keeps the interface lightweight, especially in data-heavy sections. The minimalist style supports clarity and ensures that icons enhance usability without overpowering the content.
 
+- <img src="Icon.png" width="600"/>
 
+## Components
+The dashboard is built using modular and reusable UI components to ensure consistency and scalability.
 
+Each component is designed withconsistent typography, and structured alignment. The layout follows a grid-based system to maintain visual balance and improve readability.
+
+- <img src="Components.png" width="600"/>
 
 <img src="Mockup Dashboard 2.png" width="600"/>
 
